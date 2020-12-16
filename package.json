@@ -29,7 +29,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "prop-types": "^15.6.2",
-    "tinymce": "https://github.com/amit-mnnit/tinymce"
+    "tinymce": "https://github.com/amit-mnnit/tinymce#4.x"
   },
   "peerDependencies": {
     "react": "^16.7.0",
